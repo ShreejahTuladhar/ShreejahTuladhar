@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreejah
-- 👀 I’m interested in learning anything
-- 🌱 I’m currently a noob in computer science
+- 👀 I’m interested in learning Computer Science
+- 🌱 I’m from Nepal, Bachelor's in Computing from NAMI College
 - 💞️ I’m looking to collaborate on anything on beginer level
 - 📫 How to reach me shreejah.tuladhar@outlook.com
 
